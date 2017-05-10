@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<meta>
+
+  <script src="Client/main.js" type="client" lang="javascript"/>
+  <script src="Server/main.cs" type="server" lang="csharp"/>
+
+</meta>
